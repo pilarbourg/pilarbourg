@@ -1,8 +1,6 @@
 # Hi there, I'm Pilar!
 
-I'm a **Biomedical Engineering student** at CEU San Pablo University in Madrid, passionate about **AI, programming, and building tools that make a real impact**.  
-
-I love turning data into solutions, automating workflows, and experimenting with new technologies. 
+I'm a **Biomedical Engineering student** at CEU San Pablo University in Madrid, passionate about **AI, programming, and building tools that make a real impact**.  I love turning data into solutions, automating workflows, and experimenting with new technologies. 
 
 ---
 
