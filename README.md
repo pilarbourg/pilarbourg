@@ -12,7 +12,7 @@ I'm a **Biomedical Engineering student** at CEU San Pablo University in Madrid, 
 ---
 
 ## 💻 Tech Stack
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pilarbourg&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pilarbourg&layout=compact&theme=radical&cache_seconds=0)
 
 **Languages & Frameworks:**  
 Java, Python, JavaScript (React, Node.js), Swift, SQL, Flask, HTML/CSS  
